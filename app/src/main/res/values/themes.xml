@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Theme for the app with regular font -->
+    <style name="Theme.Superheroes" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/cabin_regular</item>
+    </style>
+
+    <!-- Theme for the app with bold font -->
+    <style name="Theme.Superheroes.Bold" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/cabin_bold</item>
+    </style>
+
+</resources>
